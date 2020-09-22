@@ -1,0 +1,10 @@
+co\edu\uniandes\csw\pokemon\ejb\PokemonLogic.class
+co\edu\uniandes\csw\pokemon\persistence\CascaraPersistence.class
+co\edu\uniandes\csw\pokemon\podam\DateStrategy.class
+co\edu\uniandes\csw\pokemon\entities\BaseEntity.class
+co\edu\uniandes\csw\pokemon\entities\PokemonEntity.class
+co\edu\uniandes\csw\pokemon\constants\PokemonType.class
+co\edu\uniandes\csw\pokemon\ejb\CascaraLogic.class
+co\edu\uniandes\csw\pokemon\exceptions\BusinessLogicException.class
+co\edu\uniandes\csw\pokemon\entities\ataqueEntity.class
+co\edu\uniandes\csw\pokemon\persistence\PokemonPersistence.class

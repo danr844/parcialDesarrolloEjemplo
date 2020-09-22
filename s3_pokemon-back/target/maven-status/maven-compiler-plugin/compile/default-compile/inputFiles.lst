@@ -1,0 +1,10 @@
+C:\Users\estudiante\parcialEjemplo\202010_S3_Parcial1\s3_pokemon-back\src\main\java\co\edu\uniandes\csw\pokemon\entities\BaseEntity.java
+C:\Users\estudiante\parcialEjemplo\202010_S3_Parcial1\s3_pokemon-back\src\main\java\co\edu\uniandes\csw\pokemon\constants\PokemonType.java
+C:\Users\estudiante\parcialEjemplo\202010_S3_Parcial1\s3_pokemon-back\src\main\java\co\edu\uniandes\csw\pokemon\ejb\CascaraLogic.java
+C:\Users\estudiante\parcialEjemplo\202010_S3_Parcial1\s3_pokemon-back\src\main\java\co\edu\uniandes\csw\pokemon\persistence\CascaraPersistence.java
+C:\Users\estudiante\parcialEjemplo\202010_S3_Parcial1\s3_pokemon-back\src\main\java\co\edu\uniandes\csw\pokemon\ejb\PokemonLogic.java
+C:\Users\estudiante\parcialEjemplo\202010_S3_Parcial1\s3_pokemon-back\src\main\java\co\edu\uniandes\csw\pokemon\entities\PokemonEntity.java
+C:\Users\estudiante\parcialEjemplo\202010_S3_Parcial1\s3_pokemon-back\src\main\java\co\edu\uniandes\csw\pokemon\persistence\PokemonPersistence.java
+C:\Users\estudiante\parcialEjemplo\202010_S3_Parcial1\s3_pokemon-back\src\main\java\co\edu\uniandes\csw\pokemon\exceptions\BusinessLogicException.java
+C:\Users\estudiante\parcialEjemplo\202010_S3_Parcial1\s3_pokemon-back\src\main\java\co\edu\uniandes\csw\pokemon\entities\ataqueEntity.java
+C:\Users\estudiante\parcialEjemplo\202010_S3_Parcial1\s3_pokemon-back\src\main\java\co\edu\uniandes\csw\pokemon\podam\DateStrategy.java
